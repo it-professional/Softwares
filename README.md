@@ -1,0 +1,2 @@
+# Softwares
+Wamp + Xampp + Photoshop
